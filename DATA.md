@@ -79,7 +79,7 @@ color: yellow
 ```
 name: rope --- weight: 10
 name: knife --- weight: 8
-name: candlestick --- weight: 2
+name: knife --- weight: 8
 name: dumbbell --- weight: 30
 name: poison --- weight: 2
 name: axe --- weight: 15
